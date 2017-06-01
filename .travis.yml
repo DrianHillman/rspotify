@@ -5,6 +5,7 @@ notifications:
 
 rvm:
   - ruby-head
+  - 2.2.2
 
 script:
   - "bundle exec rspec"
